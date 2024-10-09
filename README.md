@@ -13,8 +13,8 @@ Ensure that you have the following installed:
 ## Installation
 
 1. Clone the repository or download the source code.
-   git clone
-   cd tdd-app
+   git clone https://github.com/Gagandeep556/string-calculator-app
+   cd string-calculator-app
 
 2. Install the project dependencies:
    npm install
